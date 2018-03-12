@@ -1,0 +1,21 @@
+Package: MinhasFuncoes
+Type: Package
+Title: Pacote com as minhas funcoes
+Version: 0.1
+Author: Igor Mendonça <igorrm.est@gmail.com>
+Maintainer: Igor Mendonça <igorrm.est@gmail.com>
+Description: Criei esse pacote pra facilitar o upload das minhas funcoes.
+License: Dinao
+Encoding: ASCII//TRANSLIT
+LazyData: true
+Depends: R (>= 3.1.0)
+RoxygenNote: 6.0.1
+Imports:
+    data.table,
+    lubridate,
+    readxl,
+    parallel,
+    qdap,
+    tm,
+    tidyverse,
+    magrittr
